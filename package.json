@@ -13,6 +13,6 @@
     "@octokit/rest": "^16.33.1"
   },
   "devDependencies": {
-    "eslint": "^6.5.1"
+    "eslint": "^7.31.0"
   }
 }
